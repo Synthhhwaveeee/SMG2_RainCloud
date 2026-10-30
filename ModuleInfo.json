@@ -1,18 +1,11 @@
 {
     "Name": "RainCloud",
-    "Author": "Synth",
+    "Author": "synthwave",
     "Description": "hey",
     "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
     "SupportedGames": [
-      "SB4E",
-      "SB4P",
-      "SB4J"
+      "SB4E"
     ],
-    "BuildTasks": [{
-      "Task": "Copy",
-      "From": "disc/",
-      "To": "../../Output/disc/"
-    }],
     "ModuleData" : [
       {
         "ProductMapObj" : [
