@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Files": [
+    "disc/ObjectData/RainCloud.arc",
+	"disc/ObjectData/RainCloudVolume.arc",
+	"disc/ObjectData/RainCloudLow.arc",
+	"disc/ObjectData/RainCloudCylinder.arc",
+    "include/RainCloud.h",
+    "source/RainCloud.cpp"
+  ]
+}
