@@ -6,7 +6,7 @@ namespace {
     const f32 sRainCylinderBaseLength = 1000.0f;
     const f32 sSwitchEffectBorder = 1500.0f;
     static s32 sThunderStep = 140;
-};  // namespace
+};
 
 namespace NrvRainCloud {
     FULL_NERVE(RainCloudNrvAppear, RainCloud, Appear);
@@ -15,7 +15,7 @@ namespace NrvRainCloud {
     FULL_NERVE(RainCloudNrvEnd, RainCloud, End);
     FULL_NERVE(RainCloudNrvSoftTouch, RainCloud, SoftTouch);
     FULL_NERVE(RainCloudNrvHardTouch, RainCloud, HardTouch);
-};  // namespace NrvRainCloud
+};
 
 RainCloud::RainCloud(const char* pName)
     : LiveActor(pName), mCloudCylinder(), mRailMover(), mLodCtrl(), mClippingCenter(0.0f, 0.0f, 0.0f), mRainLength(), mShadowDropLength(-1.0f),
