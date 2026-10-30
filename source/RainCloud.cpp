@@ -1,17 +1,5 @@
 #include "RainCloud.h"
-#include "Game/LiveActor/HitSensor.h"
-#include "Game/LiveActor/LiveActorGroup.h"
-#include "Game/LiveActor/LodCtrl.h"
-#include "Game/LiveActor/ModelObj.h"
-#include "Game/MapObj/MapParts/MapPartsRailMover.h"
-#include "Game/Util.h"
-#include "Game/Util/ActorSensorUtil.h"
-#include "Game/Util/ActorShadowUtil.h"
-#include "Game/Util/LiveActorUtil.h"
-#include "Game/Util/MapPartsUtil.h"
-#include "Game/Util/ObjUtil.h"
-#include "Game/Util/PlayerUtil.h"
-#include "Game/MapObj/MapParts/MapPartsRailPointPassChecker.h"
+#include "syati.h"
 
 namespace {
     const f32 sNoShadowDropLengthMax = 2000.0f;
