@@ -1,0 +1,119 @@
+[
+    {
+        "GroupName": "RainCloud",
+        "UniqueName": "Line20",
+        "EffectName": [
+            "RainLine00"
+        ],
+        "JointName": "Cloud",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R",
+            "S"
+        ],
+        "Follow": [
+            "T",
+            "S"
+        ]
+    },
+    {
+        "GroupName": "RainCloud",
+        "UniqueName": "Splash",
+        "EffectName": [
+            "RainSplash"
+        ],
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T",
+            "R"
+        ]
+    },
+    {
+        "GroupName": "RainCloud",
+        "UniqueName": "Line10",
+        "EffectName": [
+            "RainLine01"
+        ],
+        "JointName": "Cloud",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R",
+            "S"
+        ],
+        "Follow": [
+            "T",
+            "S"
+        ]
+    },
+    {
+        "GroupName": "RainCloud",
+        "UniqueName": "Appear",
+        "EffectName": [
+            "RainCloudAppear"
+        ],
+        "JointName": "Cloud",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T"
+        ]
+    },
+    {
+        "GroupName": "RainCloud",
+        "AnimName": [
+            "Disappear"
+        ],
+        "UniqueName": "Disappear",
+        "EffectName": [
+            "RainCloudVanish"
+        ],
+        "JointName": "Cloud",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T"
+        ]
+    }
+]
