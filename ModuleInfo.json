@@ -1,7 +1,7 @@
 {
     "Name": "RainCloud",
     "Author": "synthwave",
-    "Description": "hey",
+    "Description": "A port of the RainCloud object from Super Mario Galaxy 1's Gold Leaf and Sea Slide galaxies.",
     "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
     "SupportedGames": [
       "SB4E"
