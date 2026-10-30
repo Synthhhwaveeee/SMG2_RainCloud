@@ -2,6 +2,7 @@
 
 #include "Game/LiveActor/LiveActor.h"
 #include "JSystem/JGeometry/TMatrix.h"
+#include "syati.h"
 
 class LodCtrl;
 class MapPartsRailMover;
