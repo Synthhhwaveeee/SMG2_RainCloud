@@ -1,5 +1,4 @@
 #include "RainCloud.h"
-#include "syati.h"
 
 namespace {
     const f32 sNoShadowDropLengthMax = 2000.0f;
