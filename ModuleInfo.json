@@ -8,7 +8,7 @@
     ],
     "ModuleData" : [
       {
-        "ProductMapObj" : [
+        "NameObjFactory" : [
           {
             "Name" : "RainCloud",
             "Function" : "createExtActor<RainCloud>",
