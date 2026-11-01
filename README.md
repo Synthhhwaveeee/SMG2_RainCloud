@@ -10,4 +10,4 @@ There is also particles, effects, and a particle texture included with the modul
 The configuration is the same as SMG1
 
 Obj_arg0: Rain/Shadow Length: Sets the rain length. This also sets the shadow drop length. Default is 1000. No rain will appear if Obj_arg3 is set. 
-Obj_arg3: Is not Raining?: If set, the cloud will be white, and no rain will fall from the cloud. 
+Obj_arg3: Is not Raining?: If set, the cloud will be white, and no rain will fall from the cloud.
